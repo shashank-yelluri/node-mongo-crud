@@ -1,4 +1,4 @@
-# todo-backend
+# node-mongo-crud
 
 1. npm i express body-parser cors mongoose (or) npm i 
 2. connected the mongo db atlas which gives cloud service of free 500 mb.
